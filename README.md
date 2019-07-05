@@ -7,6 +7,8 @@ use frida auto hook https for androind
 ## 
 1. root phone
 2. install frida_server to phone
+- adb forward tcp:27042 tcp:27042
+- adb forward tcp:27043 tcp:27043
 3. run script
 
 ## usages
